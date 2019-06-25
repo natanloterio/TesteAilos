@@ -1,0 +1,120 @@
+{
+  "configVersion": 1,
+  "timestamp": 1561150132829,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/4.dc70323d9bb9ac18600a.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.e04b4d5a4d50204b4289.js",
+        "/polyfills.b3c0a5cedc8760ff6f7b.js",
+        "/runtime.92e38cb210c312db6439.js",
+        "/styles.47ed77dcb036ceca6795.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/FOTO_FRENTE.jpg",
+        "/assets/FOTO_PERFIL1.jpg",
+        "/assets/FOTO_PERFIL2.jpg",
+        "/assets/RG_FRENTE.png",
+        "/assets/RG_TRAS.jpg",
+        "/assets/ailos_header.png",
+        "/assets/ailos_header_fullsize.png",
+        "/assets/ailos_logo.ico",
+        "/assets/ailos_logo.png",
+        "/assets/fonts/Exo2-Black.otf",
+        "/assets/fonts/Exo2-Black.ttf",
+        "/assets/fonts/Exo2-Bold.otf",
+        "/assets/fonts/Exo2-Bold.ttf",
+        "/assets/fonts/Exo2-ExtraBold.otf",
+        "/assets/fonts/Exo2-ExtraBold.ttf",
+        "/assets/fonts/Exo2-ExtraLight.otf",
+        "/assets/fonts/Exo2-ExtraLight.ttf",
+        "/assets/fonts/Exo2-Light.otf",
+        "/assets/fonts/Exo2-Light.ttf",
+        "/assets/fonts/Exo2-Medium.otf",
+        "/assets/fonts/Exo2-Medium.ttf",
+        "/assets/fonts/Exo2-Regular.eot",
+        "/assets/fonts/Exo2-Regular.otf",
+        "/assets/fonts/Exo2-Regular.ttf",
+        "/assets/fonts/Exo2-Regular.woff",
+        "/assets/fonts/Exo2-SemiBold.otf",
+        "/assets/fonts/Exo2-SemiBold.ttf",
+        "/assets/fonts/Exo2-Thin.otf",
+        "/assets/fonts/Exo2-Thin.ttf",
+        "/assets/ngx-rocket-logo.png",
+        "/assets/no-img.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/4.dc70323d9bb9ac18600a.js": "04b52abbec5c2b009d163f577cf764cd03896984",
+    "/assets/FOTO_FRENTE.jpg": "2ce4e69358bc2858c1c0bac8cd4ec4e1e2a30f4d",
+    "/assets/FOTO_PERFIL1.jpg": "df5f988d21b2866635390ba1d4a3d6a252ea22dc",
+    "/assets/FOTO_PERFIL2.jpg": "46f7b1c2e3b5da4c96f3023ba26eb73cf9dd267f",
+    "/assets/RG_FRENTE.png": "fd65f9635f0798dc2161d4596910b0f847ee97d4",
+    "/assets/RG_TRAS.jpg": "6ae8b24c9a05b752bc644b79941a9948305c7752",
+    "/assets/ailos_header.png": "77ea23563d9599a1c80433ef15f85de1c3e8c657",
+    "/assets/ailos_header_fullsize.png": "0b13c0fd3ec114d9c6372b6824e1ef8f4dd19b77",
+    "/assets/ailos_logo.ico": "f7f3c77de7c66d9fc3bfe72e7c8b3aa34512801e",
+    "/assets/ailos_logo.png": "45d6ca507603fe8eadfc65b3999d48c59d06a3e0",
+    "/assets/fonts/Exo2-Black.otf": "acdaa805e8f5743eb17e17e117d989e418d803d2",
+    "/assets/fonts/Exo2-Black.ttf": "e58a9b78f14bd95a5c52e300680f27fb15913a56",
+    "/assets/fonts/Exo2-Bold.otf": "f0c6b074f8186851b00ee0ddd5ec84f66e06e9e5",
+    "/assets/fonts/Exo2-Bold.ttf": "b1e83002f1f03a82918e8ee5fc26a273c9b0dd40",
+    "/assets/fonts/Exo2-ExtraBold.otf": "b983bf924cc7e75356bb6ee4b52ebd472dec833c",
+    "/assets/fonts/Exo2-ExtraBold.ttf": "758f54c7104a4d3d48b39539d464697a0ddfe16b",
+    "/assets/fonts/Exo2-ExtraLight.otf": "eeefba9ac5f47fa81e49ec63f424121c20c92e23",
+    "/assets/fonts/Exo2-ExtraLight.ttf": "0d0b9133971a1d4dfa9b799f466bc625dc0c1abc",
+    "/assets/fonts/Exo2-Light.otf": "e288806b2a499a9be4edfe9f738573abbae2020e",
+    "/assets/fonts/Exo2-Light.ttf": "a6cd3c04d24159219d21585bdd5cd29797b242d3",
+    "/assets/fonts/Exo2-Medium.otf": "cedaf8ae3768ebd4904c0005aaf726fa25f6ff58",
+    "/assets/fonts/Exo2-Medium.ttf": "b48c05f5a67d0c6cabc4b7ae43d7589d056e5a39",
+    "/assets/fonts/Exo2-Regular.eot": "a8c4e5b55726c84856c42a1440ff7fb09bacf9c2",
+    "/assets/fonts/Exo2-Regular.otf": "324f1bc8bd44bf4dff539037c643acafbe5cafb8",
+    "/assets/fonts/Exo2-Regular.ttf": "460a756d0d7a4257aa0be46596f35053d855d0fd",
+    "/assets/fonts/Exo2-Regular.woff": "512c08a28d5bf68de39422279d10d447e5ce876f",
+    "/assets/fonts/Exo2-SemiBold.otf": "6b9b3fba5a57c2d7d77f6461b48f50e41810aab0",
+    "/assets/fonts/Exo2-SemiBold.ttf": "7e780cc4cde367884e56c1ab2dcd0bfa5216c9ed",
+    "/assets/fonts/Exo2-Thin.otf": "40ba3bf565a64d89e6a2a849ef5b49f9a32ae67c",
+    "/assets/fonts/Exo2-Thin.ttf": "941d655301734dd14c0dc0c0e9e1c9062451698c",
+    "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "/assets/no-img.png": "56655a2e9e24e9560d8a8acd515e5c6857804058",
+    "/favicon.ico": "f7f3c77de7c66d9fc3bfe72e7c8b3aa34512801e",
+    "/index.html": "a7b7f0037ce817a198d1e299527be2c4378c8b19",
+    "/main.e04b4d5a4d50204b4289.js": "e80b55862722a0d55a29c54320327921fb837533",
+    "/polyfills.b3c0a5cedc8760ff6f7b.js": "afec2a5e40f03a8e4876227a9c92b12225fdac98",
+    "/runtime.92e38cb210c312db6439.js": "f7d2dd5a4d542cb98470d8cc6599fe42f681b704",
+    "/styles.47ed77dcb036ceca6795.css": "33b34984d8192c15f0ac2698b5452917586b5da4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
